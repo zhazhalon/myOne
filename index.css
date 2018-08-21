@@ -6,8 +6,10 @@ p{
 .ddd{
 	background-color: salmon;
 	color: fuchsia;
+	font-family: "黑体";
 }
 .sss{
 	background-color: cornflowerblue;
 	color: peachpuff;
+	font-family: "楷体";
 }
